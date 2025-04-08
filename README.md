@@ -61,7 +61,7 @@ The dataset includes the following tables and fields:
 
 ## 📬 Connect With Me
 👤 **[Vladan Jančić]**  
-📧 [vladan.jncc"protonmail.com]  
+📧 [vladan.jncc@protonmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vladan-jančić-data/)
 
 ---
