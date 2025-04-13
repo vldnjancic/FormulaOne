@@ -27,10 +27,10 @@ The dataset includes the following tables and fields:
 
 ## 📈 Dashboard Features
 - 🚻 **Drivers by Nationality**
-- 💼 **Attrition by Job Role, Department & Salary Bands**
-- 📉 **Attrition Trend Over Years**
-- 💰 **Salary Distribution Analysis**
-- 🧠 **Insightful Visualizations with Interactive Filters**
+- 💼 **Fastest Lap Times**
+- 📉 **Wins per Driver in a Year**
+- 💰 **Total Wins, Total Podium Finishes**
+- 🧠 **Races Per Year, Average Finishing Positions**
 
 ---
 
