@@ -36,7 +36,7 @@ The dataset includes the following tables and fields:
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](hr_dashboard.pg)
+![F1 Analytics Dashboard](Dashboard Front.gif)
 
 ---
 
