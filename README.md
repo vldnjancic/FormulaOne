@@ -25,7 +25,7 @@ The dataset includes the following tables and fields:
 
 ---
 
-## 📈 Dashboard Features
+## 📎 Dashboard Features
 - 🚻 **Drivers by Nationality**
 - 💼 **Fastest Lap Times**
 - 📉 **Wins per Driver in a Year**
