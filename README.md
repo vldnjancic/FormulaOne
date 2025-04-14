@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard | Power BI Project
+# 📊 F1 Analytics Dashboard | Power BI Project
 
 ## 📝 Project Overview
 Exploring the world of F1 through data! This project dives into race results, driver performance, fastest lap times, and team standings using interactive Power BI dashboards. 
