@@ -7,13 +7,13 @@ Exploring the world of F1 through data! This project dives into race results, dr
 
 ## 📂 Dataset Description
 The dataset includes the following tables and fields:
-- Age, Gender, Education, Department
-- Job Role, Monthly Income, Total Working Years
-- Attrition Status, Job Satisfaction, Performance Rating
+- Drivers, Races, Results, Driver Standings
+- Driver Name, Nationality, Driver ID
+- Fastest Lap Time, Position, Points
 
 📁 **File:** `drivers.csv`  
-📄 **Sample Rows:** 1470 employees  
-📌 **Attrition Rate:** 16.1%
+📄 **Sample Rows:** 861 drivers  
+📌 **British Drivers:** 166
 
 ---
 
@@ -25,7 +25,7 @@ The dataset includes the following tables and fields:
 
 ---
 
-## 📎 Dashboard Features
+## 📊 Dashboard Features
 - 🚻 **Drivers by Nationality**
 - 💼 **Fastest Lap Times**
 - 📉 **Wins per Driver in a Year**
@@ -40,15 +40,11 @@ The dataset includes the following tables and fields:
 
 ---
 
-## 🧭 Folder Structure
-
----
-
 ## 💡 Key Insights
-- Highest attrition is in the **26-35 age group**
-- **Life Sciences & Medical** backgrounds see higher attrition
-- Salary band **< 5K** has the highest employee exit rate
-- Specific roles like **Sales Executive** and **Lab Technicians** show higher attrition
+- Which nations have consistently contributed to the sport
+- Does having the fastest lap correlate with winning races?
+- Which drivers consistently win races, and how do different seasons compare?
+- Are race wins evenly distributed, or do a few drivers dominate the sport?
 
 ---
 
