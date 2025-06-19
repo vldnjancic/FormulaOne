@@ -36,8 +36,8 @@ The dataset includes the following tables and fields:
 
 ## 📷 Dashboard Preview
 
-![F1 Analytics Dashboard](dashboard_front.gif)
-![F1 Analytics Dashboard](dashboard_back.gif)
+![F1 Analytics Dashboard](Images/dashboard_front.gif)
+![F1 Analytics Dashboard](Images/dashboard_back.gif)
 
 ---
 
